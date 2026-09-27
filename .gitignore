@@ -12,6 +12,11 @@ dist
 dist-ssr
 *.local
 
+#ignore file
+src/utils/fireBase.jsx
+src/utils/constant.jsx
+.env
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
